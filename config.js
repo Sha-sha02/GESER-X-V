@@ -19,28 +19,28 @@ global.domain = ""
 global.apikey = ""
 global.capikey = ""
 
-//BUKU PANDUAN JPM GESER//
+//BOT BY CAESAR//
 //EDIT TEKS DI //LIST YA 
 // Text By @yangtaggasik (Fanz) Biltol
 //===========================//
 //—————「 Set Nama Own & Bot 」—————//=====================//
 //Ini Waktu | Waktu adalah emas,maka dari itu sentuh lah rumput.dan jangan nolep dikamar terus,usahakan tu kontol jangan dikocok terus.Lutut ama sikut lu kopong nanti
-global.prefa = ['','!','.',',','🐤','🗿']                                      //
-global.owner = ['']                                  //
-global.ownMain = ''                               //
+global.prefa = ['/']                                      //
+global.owner = ['2349060509982','2348078112891']                                  //
+global.ownMain = '2349060509982,2348078112891'                               //
 global.gris = '`'                                                 //
-global.namaowner = "Bara Not ℌ𝔲𝔪𝔞𝔫"                         //
-global.namaowner2 = "Bara Not ℌ𝔲𝔪𝔞𝔫"                       //
-global.namaowner = 'Bara Not ℌ𝔲𝔪𝔞𝔫'                        //
-global.NamaOwner = 'Bara 𝔑𝔬𝔱 ℌ𝔲𝔪𝔞𝔫' //gausah diganti      //
-global.namabot = 'Bara 𝕭𝖔𝖙𝖟' //ganti aj klo mau.            //
-global.namabot2 = 'Bara 𝕭𝖔𝖙𝖟' //ganti aj klo mau.          //
+global.namaowner = "Caesar"                         //
+global.namaowner2 = "Caesar"                       //
+global.namaowner = 'Caesar'                        //
+global.NamaOwner = 'Caesar' //CAE      //
+global.namabot = 'Caesar' //CAE.            //
+global.namabot2 = 'Caesar' //CAE.          //
 //==================================================//
-global.saluran = 'https://whatsapp.com/channel/0029VaJi0RuHFxOubage052j' //
+global.saluran = 'https://chat.whatsapp.com/GaJPTKxSLHT33L3ue2jpNY' //
 global.idsaluran = "120363198449115557@newsletter" // opsional ID saluran //
 //———————————————————————————————————————//
 //SYSTEM LAINNYA
-global.author = `At F` // ubah aja ini nama sticker
+global.author = `Outlaw` // ubah aja ini nama sticker
 global.hiasan = `	◦  `
 global.tTeks = '      ◦‎‎‎  .'
 global.tTeks2 = '> '
@@ -52,7 +52,7 @@ global.footer2 = (`simple whatsapp bot made by `) // Ganti Aja Tanda ` ` Jan Dih
 global.yt = '-' //gausah diganti
 
 // SESSION
-global.sessionName = 'botditzzsession' // Gausah Di Ganti 
+global.sessionName = 'session' // Gausah Di Ganti 
 
 // PAIRING OR SCAN?
 global.connect = true // Ubah Ke False Jika Ingin Menggunakan Qr Code
@@ -196,7 +196,7 @@ global.mess = { // bagian ini gausah diganti
  usingsetpp: `Setpp can only be used by the owner, do you think I'm stupid? 🤓`,
  wait: '*Waiting for processing 🗿🚬*',
  success: 'Success Bang 🗿🚬',
- bugrespon: `✅Sabar Bang Tunggu 30 Menit🗿🚬`
+ bugrespon: `✅Sharp🗿🚬`
 }
 
 //===========================//
